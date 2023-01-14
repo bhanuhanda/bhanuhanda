@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @bhanuhanda
-- 👀 I’m interested in bringing concepts to life
-- 🌱 I’m currently learning to build scalable web applications
-- 💞️ I’m looking to collaborate on building tech solutions
+- 👋 Hi, I’m @bhanuhanda, with 3.5+ yrs(& counting) of experience in building enterprise web solutions 
+- 🎓 Worked with Front end JS Stack, Back End JS & Java Stack, PostgreSQL, Cloud First Apps
+- 👀 I’m interested in exploring new concepts around development
+- 🌱 Currently learning to build robust web applications
+- 💞️ Happy to collaborate on building tech solutions
 - 📫 Reach out to me @ https://www.linkedin.com/in/bhanu-handa-1607/
 
 <!---
