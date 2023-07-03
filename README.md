@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bhanuhanda, with 3.5+ yrs(& counting) of experience in building enterprise web solutions 
-- 🎓 Worked with Front end JS Stack, Back End JS & Java Stack, PostgreSQL, Cloud First Apps
-- 👀 I’m interested in exploring new concepts around development
-- 🌱 Currently learning to build robust web applications
+- 👋 Hi, I’m @bhanuhanda, with 3+ yrs(& counting) of experience in building enterprise web solutions
+- 🎓 Worked with Frontend & Backend JS Stack, lil experience with PostgreSQL, Cloud First Apps
+- 👀 I’m interested in exploring new concepts around designing & development digital systems
+- 🌱 Currently learning to build robust & scalable web applications
 - 💞️ Happy to collaborate on building tech solutions
 - 📫 Reach out to me @ https://www.linkedin.com/in/bhanu-handa-1607/
 
