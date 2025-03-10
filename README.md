@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhanuhanda, with 4+ years of experience in building enterprise web applications
+- 👋 Hi, I’m @bhanuhanda, with 4.8 years of experience in building enterprise web applications
 - 🎓 Worked with Frontend (React JS) & Backend (Node JS frameworks). experience with GraphQL, PostgreSQL, Prisma ORM
 - 👀 I’m interested in exploring new concepts around designing & development digital systems
 - 🌱 Currently learning to build performant & scalable web applications
